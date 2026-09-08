@@ -60,3 +60,4 @@ Dengan menu ini, pengguna dapat mengetahui kondisi keuangan berdasarkan transaks
 ### **D. Keluar Program**
 
 Jika pengguna memilih menu **0. Keluar** pada Menu Utama, sistem akan menampilkan pesan bahwa program selesai dan program akan berhenti.
+p
