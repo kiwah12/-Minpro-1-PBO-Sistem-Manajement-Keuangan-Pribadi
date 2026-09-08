@@ -15,3 +15,4 @@ Program ini memiliki tiga menu utama, yaitu:
 
 Selain itu, program menyediakan menu Keluar untuk mengakhiri program. Pengelolaan data transaksi pada sistem ini menerapkan konsep **CRUD** (Create, Read, Update, Delete), 
 yaitu menambah, melihat, mengubah, dan menghapus data transaksi.
+sqsq
